@@ -239,7 +239,7 @@ Future<bool> viewDiaryEntry(
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: [
                         Text(
-                          "My feelings: ",
+                          "My feeling: ",
                           style: TextStyle(
                             fontFamily: 'Cursive',
                             color: Colors.white,
